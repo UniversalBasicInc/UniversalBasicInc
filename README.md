@@ -13,7 +13,7 @@ I added Intel GPU support to Boltz-2, validated it on three GPUs, and got it mer
 
 ## Machine-learned force fields in molecular dynamics: MACE and GROMACS
 
-<a href="https://github.com/UniversalBasicInc/mace-arc"><img src="https://raw.githubusercontent.com/UniversalBasicInc/mace-arc/main/docs/img/water64_300K.gif" width="60%" alt="64 water molecules simulated with MACE-MP-0 on an Intel Arc Pro B70"></a>
+<a href="https://github.com/UniversalBasicInc/mace-arc"><img src="https://raw.githubusercontent.com/UniversalBasicInc/mace-arc/master/docs/img/water64_300K.gif" width="60%" alt="64 water molecules simulated with MACE-MP-0 on an Intel Arc Pro B70"></a>
 
 **[mace-arc](https://github.com/UniversalBasicInc/mace-arc)** runs the MACE interatomic potential on Intel Arc GPUs, validated against CPU and NVIDIA results. To use it inside real simulations I got three changes merged into GROMACS:
 
