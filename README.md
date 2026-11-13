@@ -33,7 +33,7 @@ An operating system for everyone, as an alternative to Windows 11 and macOS, wit
 
 ## Also
 
-- **[xeon-phi-knc-codegen-revival](https://github.com/UniversalBasicInc/xeon-phi-knc-codegen-revival)**: a 2013 Xeon Phi brought back to run validated disease-model simulations, with a compiler-backend patch and measurements.
+- **[xeon-phi-knc-codegen-revival](https://github.com/UniversalBasicInc/xeon-phi-knc-codegen-revival)**: a 2013 Xeon Phi brought back to run validated disease-model simulations, with a compiler-backend patch and measurements; particularly endometriosis simulations which is largely underserved, and Monte Carlo for radiation dosing. 
 - **[mythd](https://github.com/UniversalBasicInc/mythd)**: a Rust security perimeter around local LLM inference, with post-quantum key exchange and a signed audit log.
 - **SUSE AI charts** [#40](https://github.com/SUSE/suse-ai-charts/pull/40) (merged): OIDC settings never reached Dex and oauth2-proxy.
 - **BOINC** [#7376](https://github.com/BOINC/boinc/pull/7376) (merged): client packages broken on openSUSE Leap 16.
