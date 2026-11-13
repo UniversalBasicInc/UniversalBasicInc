@@ -1,6 +1,6 @@
 # Universal Basic Inc
 
-**Dylan Holdren**, founder and sole engineer. I make scientific and AI software run correctly on hardware beyond the usual NVIDIA path, and I run a private AI service on solar-first hardware I own.
+**Dylan Holdren**, founder and sole engineer. I make scientific and AI software run correctly on hardware beyond the usual NVIDIA path, and I run a private, solar first AI that is available on the Android and Microsoft apps store, called NoFootprint. After losing my father to lung cancer in 2019, my focus has been medical simulation software, molecular dynamics and open source projects that empower labs of any size to help find the next best treatments for disease.
 
 ## Protein structure prediction on Intel GPUs: Boltz-2
 
@@ -25,11 +25,11 @@ GROMACS is developed on GitLab, so these do not appear in the contribution graph
 
 ## NoFootprint
 
-**[NoFootprint](https://nofootprint.chat)** is a private AI chat subscription, live on the web, Google Play and the Microsoft Store. It runs on my own solar-first hardware, with grid use matched by renewable energy certificates. I wrote the app, the back end and the inference stack, and I operate it.
+**[NoFootprint](https://nofootprint.chat)** is a private, solar first AI chat subscription, live on the web, Google Play and the Microsoft Store. It runs on my own solar-first hardware, with grid use matched by renewable energy certificates. I wrote the app, the back end and the inference stack, and I operate it.
 
 ## MYTH.OS
 
-An operating system for everyone, as an alternative to Windows 11 and macOS, with NoFootprint built in. In development; not yet released.
+An operating system for everyone, as an alternative to Windows 11 and macOS, with NoFootprint built in. In development; not yet released. Based on Debian 13, and built with tech savvy folks and your grandma in Nebraska both in mind such that anyone can have a private, secure operating system with all the modern features, a crisp and responsive UI, and excellent compatibility features for older and newer hardware as well, no TPM modules required and no expensive hardware upgrades for businesses. 
 
 ## Also
 
@@ -40,4 +40,4 @@ An operating system for everyone, as an alternative to Windows 11 and macOS, wit
 
 ## How I work
 
-I validate before I claim: bit-exact where that is possible, a stated tolerance where it is not, and the limits written down. I use AI coding agents every day, review every change, and disclose that in contributions where projects ask for it.
+I validate before I claim: bit-exact where that is possible, a stated tolerance where it is not, and the limits written down. I use AI coding agents every day, review every change, and disclose that in contributions where projects ask for it. I love finding bugs, and hunting down a problem until it is fixed. I believe in the age of AI and new tools, there is no excuse for bad software; I make good software that is verified on multiple architectures and environments. I have RISC-V, Intel and AMD EPYC machines, Nvidia workstation and Intel Arc Pro GPUs and I am always happy to partner with labs who want to collaborate using my hardware and software expertise. 
